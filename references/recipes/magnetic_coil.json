@@ -1,0 +1,12 @@
+{
+    "name": "Magnetic Coil",
+    "type": 0,
+    "time": 1,          
+    "inputs": {         
+        "copper_plate": 1,
+        "magnet": 2
+    },
+    "outputs": {        
+        "magnetic_coil": 2
+    }
+}

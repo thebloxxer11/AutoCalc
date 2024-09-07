@@ -1,0 +1,13 @@
+{
+    "name": "Electric Motor",
+    "type": 0,
+    "time": 2,          
+    "inputs": {         
+        "iron_plate": 2,
+        "magnetic_coil": 1,
+        "gear": 1
+    },
+    "outputs": {        
+        "electric_motor": 1
+    }
+}

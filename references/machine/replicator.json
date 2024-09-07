@@ -1,0 +1,4 @@
+{
+    "type": "assembly",
+    "tier_speeds": [0.75, 1, 1.5, 3]
+}

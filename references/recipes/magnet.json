@@ -1,0 +1,11 @@
+{
+    "name": "Magnet",
+    "type": 1,
+    "time": 1.5,          
+    "inputs": {         
+        "iron_ore": 1
+    },
+    "outputs": {        
+        "magnet": 1
+    }
+}

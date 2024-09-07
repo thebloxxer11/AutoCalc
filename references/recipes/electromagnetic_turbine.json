@@ -1,0 +1,12 @@
+{
+    "name": "Electromagnetic Turbine",
+    "type": 0,
+    "time": 2,          
+    "inputs": {         
+        "electric_motor": 2,
+        "magnetic_coil": 2
+    },
+    "outputs": {        
+        "electromagnetic_turbine": 1
+    }
+}

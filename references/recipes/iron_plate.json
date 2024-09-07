@@ -1,0 +1,11 @@
+{
+    "name": "Iron Plate",
+    "type": 1,
+    "time": 1,          
+    "inputs": {         
+        "iron_ore": 1
+    },
+    "outputs": {        
+        "iron_plate": 1
+    }
+}

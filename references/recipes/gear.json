@@ -1,0 +1,11 @@
+{
+    "name": "Gear",
+    "type": 0,
+    "time": 1,          
+    "inputs": {         
+        "iron_plate": 1
+    },
+    "outputs": {        
+        "gear": 1
+    }
+}

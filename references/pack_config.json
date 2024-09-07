@@ -1,0 +1,11 @@
+{
+    "recipes": {
+        "collecting_inversion_uses_lens": false
+    },
+    "machine_tiers": {
+    "replicator": 0,
+    "smelter": 0,
+    "chemical_plant": 0,
+    "matrix_lab": 0
+    }
+}

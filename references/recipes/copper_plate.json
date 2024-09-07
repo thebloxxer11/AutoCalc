@@ -1,0 +1,11 @@
+{
+    "name": "Copper Plate",
+    "type": 1,
+    "time": 1,          
+    "inputs": {         
+        "copper_ore": 1
+    },
+    "outputs": {        
+        "copper_plate": 1
+    }
+}
