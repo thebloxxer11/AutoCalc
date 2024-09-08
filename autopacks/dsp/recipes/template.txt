@@ -1,0 +1,12 @@
+TEMPLATE FORMATTING:
+{
+    "name": "dsp.items.iron_plate", //Untranslated Name of Recipe
+    "producer": 0,           //Producer of recipe, untranslated name
+    "time": 1,           //Time in Seconds (Float)
+    "inputs": {          //Inputs as a list of Item Providers
+        "iron_ore": 1
+    },
+    "outputs": {         //Outputs as a list of Item Providers
+        "iron_plate": 1
+    }
+}
